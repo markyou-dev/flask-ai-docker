@@ -1,6 +1,8 @@
 # Default
-**/__pycache__/
+**/__pycache__/*
 *.py[cod]
 
-# 모델이 저장되는 경로
-save_models
+
+# 제외할 경로
+/logs/
+/data/save_models/
