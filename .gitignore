@@ -6,3 +6,4 @@
 # 제외할 경로
 /logs/
 /data/save_models/
+/uploads/*
